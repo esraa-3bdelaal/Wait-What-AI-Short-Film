@@ -5,12 +5,12 @@
 A psychological thriller short film created entirely using AI tools. The story follows two business partners, Adam and Noah, who face a massive crisis after losing a critical deal. While Adam breaks down in anger and paranoia, Noah plays the calm, supportive friend. However, a final psychological twist reveals that the betrayal came from the closest person. The film focuses on emotional manipulation, trust, and hidden intentions.
 
 # Team Members
-*   **Esraa** - Team Leader & Film Director
-*   **Youssef** - Scriptwriter & Story Developer
-*   **Heba** - Art Director & Visual Concept
-*   **Rana** - AI Video Generation & Technical Lead
-*   **Baraah** - Audio Producer & AI Specialist
-*   **Abdulmalek** - Video Editor & Post-Production
+*   **Esraa Abdelaal** - Team Leader & Film Director
+*   **Youssef Mohamed** - Scriptwriter & Story Developer
+*   **Heba Hamed** - Art Director & Visual Concept
+*   **Rana Ekramy** - AI Video Generation & Technical Lead
+*   **Baraah Ahmed** - Audio Producer & AI Specialist
+*   **Abdulmalek Ayman** - Video Editor & Post-Production
 
 # Work Plan
 Our project execution is structured into 7 comprehensive phases:
