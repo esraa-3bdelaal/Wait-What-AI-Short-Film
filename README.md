@@ -1,5 +1,3 @@
-# Wait-What-AI-Short-Film
-A psychological thriller short film produced entirely using Artificial Intelligence tools, exploring themes of partnership, betrayal, and psychological manipulation.
 # # Project Name
 **Wait, What?** - AI-Generated Psychological Thriller Short Film
 
